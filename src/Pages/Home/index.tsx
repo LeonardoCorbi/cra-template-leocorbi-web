@@ -23,7 +23,7 @@ const Home: React.FC = () => {
     >
       <img width="256" src="./favicon.svg" alt="Logo Leonardo Corbi"/>
       <p>
-        Você está usando o template de criação web de <br/> Leonardo Corbi 🤘🏼
+        You're using cra-template by <br/> Leonardo Corbi 🤘🏼
       </p>
     </div>
     </Container>
